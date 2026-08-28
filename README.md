@@ -62,21 +62,6 @@ An autonomous real-time analysis and decision-making agent built with the Flink 
 - Supports remote model APIs and local Ollama deployment
 - Integrated Tool Calling, Skills and multi-agent collaboration
 
----
-
-### 🤖 AI Agent Architecture Exploration
-
-An AI agent application based on Spring AI, RAG, Tool Calling and MCP.
-
-- Implemented ReAct-based autonomous task execution
-- Supported multi-turn conversation memory
-- Enabled switching between remote models and local Ollama models
-- Built a document-upload knowledge base with vector search
-- Improved retrieval quality through query expansion and query rewriting
-- Integrated tools for email notification, weather forecast and nearby search
-
----
-
 ### 🎮 Batch Grant Entitlements — Electronic Arts
 
 A full-stack and AI engineering project for batch self-service authorization of EA game entitlements.
@@ -112,6 +97,21 @@ A web-based platform that productized a previously manual Excel-based forecastin
 **Tech:** Hadoop · Spark · Flink · Doris · Spring Boot · MySQL · PySpark
 
 ---
+
+### 🤖 AI Agent Architecture Exploration
+
+An AI agent application based on Spring AI, RAG, Tool Calling and MCP.
+
+- Implemented ReAct-based autonomous task execution
+- Supported multi-turn conversation memory
+- Enabled switching between remote models and local Ollama models
+- Built a document-upload knowledge base with vector search
+- Improved retrieval quality through query expansion and query rewriting
+- Integrated tools for email notification, weather forecast and nearby search
+
+---
+
+
 
 ## 💼 Experience
 
