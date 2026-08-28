@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Yulong</h1>
 
 <p align="center">
   AI Engineer · Backend Developer · Big Data Engineer
@@ -97,7 +97,7 @@ A full-stack and AI engineering project for batch self-service authorization of 
 
 ---
 
-### 📊 Business Target Forecasting and Management Platform
+### 📊 Business Target Forecasting and Management Platform - MeiTuan
 
 A web-based platform that productized a previously manual Excel-based forecasting workflow.
 
@@ -121,7 +121,7 @@ A web-based platform that productized a previously manual Excel-based forecastin
 
 Focused on full-stack development, backend architecture and AI engineering. Owned the Batch Grant Entitlements system and standardized its core capabilities through MCP.
 
-### Meituan — Big Data Developer, Financial Services
+### Meituan — Big Data Developer
 
 `2022.07 – 2025.09`
 
@@ -178,9 +178,9 @@ B.Sc. Data Science and Big Data Technology
 
 ## 📫 Contact
 
-- GitHub: [你的用户名](https://github.com/你的用户名)
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](你的 LinkedIn 链接)
+- GitHub: https://github.com/FAU-wyl/
+- Email: beihangw@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yulong-wang-693309412/
 
 ---
 
