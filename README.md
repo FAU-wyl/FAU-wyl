@@ -12,9 +12,10 @@
 
 ## 🙋 About Me
 
-- 🎓 M.Sc. student in Data Science (AI), FAU Erlangen-Nürnberg, Germany
+- 🎓 M.Sc. in Data Science, FAU Erlangen-Nürnberg, Germany
+- 🎓 B.Sc. in Data Science and Big Data Technology, China University of Mining and Technology(CUMT)
 - 💻 Experienced in backend development, big data platforms and AI applications
-- 🤖 Interested in LLM Agents, RAG, Tool Calling, MCP and real-time intelligent systems
+- 🤖 Interested in LLM Agents, RAG, Tool Calling, MCP, big data and real-time systems
 - ⚙️ Experienced with large-scale data pipelines, distributed computing and system optimization
 - 🌱 Currently exploring event-driven AI agents and production-ready AI engineering
 
