@@ -44,7 +44,6 @@
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -100,6 +99,8 @@ A web-based platform that productized a previously manual Excel-based forecastin
 ---
 
 ### 🤖 AI Agent Architecture Exploration
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/FAU-wyl/JChatMind-main)
 
 An AI agent application based on Spring AI, RAG, Tool Calling and MCP.
 
